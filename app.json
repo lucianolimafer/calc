@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "calc",
+    "slug": "calc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.lucianolimafer.calc",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.lucianolimafer.calc"
+    }
+  }
+  
+}
